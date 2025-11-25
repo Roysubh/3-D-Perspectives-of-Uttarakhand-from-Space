@@ -11,8 +11,7 @@ Indian Space Research Organisation (ISRO), Jodhpur
 
 ## 📝 Editors
 <details>
-<summary>Click to expand</summary>
-
+     
 - Giribabu Dandabathula  
 - Subham Roy  
 - Omkar Ghatage  
@@ -28,7 +27,6 @@ Indian Space Research Organisation (ISRO), Jodhpur
 
 ## ✍️ Contributing Authors
 <details>
-<summary>Click to expand</summary>
 
 - Giribabu Dandabathula  
 - Kamal Pandey  
@@ -44,7 +42,6 @@ Indian Space Research Organisation (ISRO), Jodhpur
 
 ## 🛠 Technical Review
 <details>
-<summary>Click to expand</summary>
 
 - Babu Govindha Raj K.  
 - Mahesh Kumar Gaur  
@@ -59,7 +56,6 @@ Indian Space Research Organisation (ISRO), Jodhpur
 
 ## 🙏 Special Thanks
 <details>
-<summary>Click to expand</summary>
 
 - Dr. V. Narayanan (Chairman, ISRO)  
 - Dr. Prakash Chauhan (Director, NRSC)  
