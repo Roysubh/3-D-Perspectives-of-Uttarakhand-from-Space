@@ -63,14 +63,18 @@ Indian Space Research Organisation (ISRO), Jodhpur
 
 This atlas, **“3-D Perspectives of Uttarakhand from Space,”** is organized into **two main sections**:
 
-- Chapters based on historical studies and figures from various periods.  
-- Provides foundational knowledge to understand Uttarakhand’s significance.  
+<summary><strong>Section I: Foundation</strong></summary>
 
-- **50 plates** depicting key places in Uttarakhand, important for tourism.  
-- Created using **Resourcesat-2/2A LISS-IV satellite imagery** and **CartoDEM**.  
-- **Digital Elevation Model (DEM)** represents valleys, plains, and mountains in 3-D.  
+- Chapters based on historical studies and references from various periods  
+- Establishes the essential background to understand Uttarakhand’s geographical and cultural significance  
 
-These perspectives allow a richer appreciation of Uttarakhand’s landscapes and geographical features.
+<summary><strong>Section II: 3-D Plates</strong></summary>
+
+- Contains **50 detailed 3-D plates** showcasing important locations across Uttarakhand  
+- Developed using **Resourcesat-2/2A LISS-IV satellite imagery** combined with **CartoDEM**  
+- **Digital Elevation Model (DEM)** provides realistic 3-D representation of mountains, valleys, glaciers, and plains  
+
+These 3-D perspectives provide an enhanced understanding of Uttarakhand’s diverse landscapes and natural features.
 
 ---
 
@@ -123,4 +127,3 @@ All rights reserved.
 No portion of this book may be reproduced, stored in a retrieval system, or transmitted in any form or by any means without prior written consent of the copyright owner, except as permitted under the **Indian Copyright Act, 1957**.
 
 ---
-
