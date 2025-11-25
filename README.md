@@ -10,7 +10,6 @@ Indian Space Research Organisation (ISRO), Jodhpur
 ---
 
 ## 📝 Editors
-<details>
      
 - Giribabu Dandabathula  
 - Subham Roy  
@@ -21,12 +20,9 @@ Indian Space Research Organisation (ISRO), Jodhpur
 **Hindi Translation:**  
 - Anil Kumar Ojha
 
-</details>
-
 ---
 
 ## ✍️ Contributing Authors
-<details>
 
 - Giribabu Dandabathula  
 - Kamal Pandey  
@@ -36,12 +32,9 @@ Indian Space Research Organisation (ISRO), Jodhpur
 - Subham Roy  
 - Omkar Ghatage  
 
-</details>
-
 ---
 
 ## 🛠 Technical Review
-<details>
 
 - Babu Govindha Raj K.  
 - Mahesh Kumar Gaur  
@@ -50,12 +43,9 @@ Indian Space Research Organisation (ISRO), Jodhpur
 - Sagar Subhashrao Salunkhe  
 - Rakesh Fararoda  
 
-</details>
-
 ---
 
 ## 🙏 Special Thanks
-<details>
 
 - Dr. V. Narayanan (Chairman, ISRO)  
 - Dr. Prakash Chauhan (Director, NRSC)  
@@ -67,32 +57,20 @@ Indian Space Research Organisation (ISRO), Jodhpur
 
 > Special thanks to all who helped with data preparation and supported us in creating Uttarakhand’s 3-D perspectives.
 
-</details>
-
 ---
 
 ## 📚 Content Overview
 
 This atlas, **“3-D Perspectives of Uttarakhand from Space,”** is organized into **two main sections**:
 
-<details>
-<summary>Section I: Foundation</summary>
-
 - Chapters based on historical studies and figures from various periods.  
 - Provides foundational knowledge to understand Uttarakhand’s significance.  
-
-</details>
-
-<details>
-<summary>Section II: 3-D Plates</summary>
 
 - **50 plates** depicting key places in Uttarakhand, important for tourism.  
 - Created using **Resourcesat-2/2A LISS-IV satellite imagery** and **CartoDEM**.  
 - **Digital Elevation Model (DEM)** represents valleys, plains, and mountains in 3-D.  
 
 These perspectives allow a richer appreciation of Uttarakhand’s landscapes and geographical features.
-
-</details>
 
 ---
 
@@ -137,7 +115,12 @@ You can download the complete atlas here:
 ## 📄 License & Credits
 - All content created and compiled by **Regional Remote Sensing Centre – West, NRSC, ISRO**  
 - Editors, authors, reviewers, and contributors are credited in respective sections  
-- Images and DEM data are sourced from **NRSC-ISRO, Bhuvan portal, and Bhoonidhi portal**  
+- Images and DEM data are sourced from **NRSC–ISRO, Bhuvan Portal, and Bhoonidhi Portal**
+
+**Copyright ©2025 National Remote Sensing Centre, Indian Space Research Organisation**
+
+All rights reserved.  
+No portion of this book may be reproduced, stored in a retrieval system, or transmitted in any form or by any means without prior written consent of the copyright owner, except as permitted under the **Indian Copyright Act, 1957**.
 
 ---
 
